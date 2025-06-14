@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=HXLPW9qZxKQ (MAIN VIDEO FOR THE PROJECT)
+
+https://sujayr91.github.io/Im2Latex/ (Notes on project from someone else)
+https://www.kaggle.com/discussions/general/299627 (forum for discussion on this)
+
+MORE DATA SETS This has the entirety of the equation not just the symbols-> https://huggingface.co/datasets/OleehyO/latex-formulas
+
+IDEAS:
+    Trained AE to reconstruct equations and lower storage needs
+    Solver AND LaTeX converter
+    
